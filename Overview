@@ -1,0 +1,94 @@
+Simple interactive web-based love game using HTML, CSS, and vanilla JavaScript.
+Deliver the project as a single self-contained HTML file.
+
+🌸 Game Concept
+
+The game opens with a minimalist design:
+
+Soft pastel or neutral background
+
+Clean, elegant typography
+
+Calm, romantic tone
+
+On page load, display centered text with a gentle fade-in animation:
+“Rajdeep loves you so much”
+
+💖 User Interaction
+
+When the user clicks or taps anywhere on the screen:
+
+Spawn a floating heart at the click position
+
+The heart:
+
+Floats upward
+
+Slightly rotates and scales
+
+Gradually fades out
+
+Along with the heart, display one rotating romantic message near it.
+
+Rotate messages randomly from the following list:
+
+I love you ❤️
+Always you
+Only you
+Forever 💫
+Just us
+You mean everything to me
+You make me smile
+My favorite person
+You feel like home
+I’m grateful for you
+Forever and always 💖
+My heart chose you
+With you, always
+You are my peace
+My heart is yours
+I’m here for you
+You’re safe with me
+No matter what
+You’re never alone
+I’ve got you
+You + Me ❤️
+Still choosing you
+Again and again
+Together
+Us 💞
+
+
+Each click should create a new heart and message, allowing multiple hearts on screen at once.
+
+🎨 Design & Animation Requirements
+
+Minimalist, romantic aesthetic
+
+Subtle gradient background (off-white → blush pink)
+
+Smooth, lightweight CSS animations
+
+Very soft shadow or glow on hearts and text
+
+Optional, very soft “pop” or chime sound on click (low volume, non-intrusive)
+
+⚙️ Technical Requirements
+
+Use CSS animations instead of heavy JavaScript
+
+Automatically remove hearts and text after animations complete
+
+No external libraries or frameworks
+
+Fully responsive (mobile & desktop friendly)
+
+📦 Deliverables
+
+Complete, working code in one HTML file
+
+Clean, well-commented, easy-to-understand code
+
+Ready to run directly in a browser
+
+The final result should feel soft, emotional, and intentional, not like a demo—simple, elegant, and romantic.
